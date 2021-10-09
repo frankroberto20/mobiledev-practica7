@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -92,7 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DependencyServicePractica\DependencyServicePractica.csproj">
-      <Project>{04019954-F828-4B08-A8F2-49DD5FE9ACC6}</Project>
+      <Project>{48C78AC9-FE47-48B5-B106-9BED46E5D1B0}</Project>
       <Name>DependencyServicePractica</Name>
     </ProjectReference>
   </ItemGroup>
